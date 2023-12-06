@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Van Anh, a fullstuck/fullstackoverflow developer😉</div>  
+### <div align="center">I'm Van Anh, a back-end developer😉</div>  
   
 
 - 🌱 I’m currently learning software engineer at FPT University
