@@ -8,13 +8,7 @@
 ### <div align="center">I'm Van Anh, a fullstuck/fullstackoverflow developer😉</div>  
   
 
-- 🌱 I’m currently learning software engineer at FPT University  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🌱 I’m currently learning software engineer at FPT University
   
 
 <br/>  
@@ -96,10 +90,6 @@
 
 ## Buy Me A Coffee
 <div align="center">
-            <a href="https://www.buymeacoffee.com/anhvnv" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+<p><a href="https://www.buymeacoffee.com/sonnh1106"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sonnh1106" /></a></p><br><br>
+</div>
+<br/>
