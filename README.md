@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **vuvananhben26@gmail.com**
 
-- 📄 Know about my experiences [https://nguyenvananhvu.my.canva.site/](https://nguyenvananhvu.my.canva.site/)  
+- 📄 Know about my experiences [)  
 
 <br/>  
 
