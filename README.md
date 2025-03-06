@@ -4,6 +4,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=conboaduide&label=Profile%20views&color=0e75b6&style=flat" alt="conboaduide" align="center" />
+</div>  
+  
 
 ### <div align="center">I'm Van Anh, a back-end developer😉</div>  
   
@@ -67,19 +71,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=conboaduide&show_icons=true&locale=en&layout=compact" align="center" /></div>  <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=conboaduide&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-## Spotify
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=conboaduide&label=Profile%20views&color=0e75b6&style=flat" alt="conboaduide" align="center" />
-</div>  
-  
+## Most Used Languages 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=conboaduide&show_icons=true&locale=en&layout=compact" align="center" /></div>  
 
-<br/>  
+<br/>
 
 ## Buy Me A Coffee
 <div align="center">
@@ -88,7 +88,7 @@
 <br/>
 
 
-## Connect with me  
+## Connect With Me  
 <div align="center">
 <a href="https://github.com/conboaduide" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -96,6 +96,9 @@
 <a href="https://www.facebook.com/nguyenvananh.vu" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
+<!-- <a href="https://www.instagram.com/_korroo" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%020202e.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  -->
 </div>  
   
 
