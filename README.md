@@ -66,20 +66,6 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/conboaduide" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/nguyenvananh.vu" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=conboaduide&show_icons=true&locale=en&layout=compact" align="center" /></div>  <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=conboaduide&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -100,3 +86,17 @@
 <p><a href="https://www.buymeacoffee.com/anhvnv"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anvn" /></a></p><br><br>
 </div>
 <br/>
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/conboaduide" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/nguyenvananh.vu" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
