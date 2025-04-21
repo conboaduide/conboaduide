@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning software engineer at FPT University
   
-- 📫 How to reach me **vuvananhben26@gmail.com**
+- 📫 How to reach me **korrooo2003@gmail.com**
 
 - 📄 Know about my experiences [)  
 
